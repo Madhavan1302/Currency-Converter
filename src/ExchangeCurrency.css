@@ -50,6 +50,8 @@ h1{
     height: 30px;
     margin-top: 7px;
     outline: none;
+    background-color:white;
+    color:black;
 }
 .result{
     text-align: center;
